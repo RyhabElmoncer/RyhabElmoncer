@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm ryhab elmoncer</h1>
 <h3 align="center">A passionate Software developer from Tunisia</h3>
 
+- 🌱 I’m currently learning **Software engineering**
+
+- 💬 Ask me about **Spring Boot Angular .NET**
+
+- 📫 How to reach me **ryhabelmoncerr@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/elmoncer ryhab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmoncer ryhab" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100078614125259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100078614125259" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrvken3ht_6q4j1rse9ddaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrvken3ht_6q4j1rse9ddaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
