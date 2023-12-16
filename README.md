@@ -1,6 +1,9 @@
+<div style="width: 100%; height: 312px; overflow: hidden;">
+        <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Facebook Banner" style="width: 100%; height: auto;">
+    </div>
 <h1 align="center">Hi 👋, I'm ryhab elmoncer</h1>
 <h3 align="center">A passionate Software developer from Tunisia</h3>
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/da:true/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif">
 - 🌱 I’m currently learning **Software engineering**
 
 - 💬 Ask me about **Spring Boot Angular .NET**
