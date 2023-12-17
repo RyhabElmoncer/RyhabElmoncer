@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm ryhab elmoncer</h1>
 <h3 align="center">A passionate Software developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/da:true/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif">
-- 🌱 I’m currently learning # Software engineering 
+- 🌱 I’m currently learning **Software engineering** 
 
 - 💬 Ask me about **Spring Boot Angular .NET**
 
