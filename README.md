@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Software developer from Tunisia</h3>
 - 🌱 I’m currently learning **Software engineering** 
 
-- 💬 Ask me about **Spring Boot Angular .NET**
+- 💬 Ask me about **Spring Boot Angular .NET Flutter **
 
 - 📫 How to reach me **ryhabelmoncerr@gmail.com**
 
