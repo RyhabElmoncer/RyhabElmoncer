@@ -1,6 +1,5 @@
-<div style="width: 100%; height: 312px; overflow: hidden;">
-        
-    </div>![1708895363571](https://github.com/RyhabElmoncer/RyhabElmoncer/assets/126770762/d1b8322c-4c33-44a6-8680-df916d3cf144)
+![1708895363571](https://github.com/RyhabElmoncer/RyhabElmoncer/assets/126770762/7b1f1817-45be-4b5a-af97-9d12c01ba34d)
+
 
 <h1 align="center">Hi 👋, I'm ryhab elmoncer</h1>
 <h3 align="center">A passionate Software developer from Tunisia</h3>
