@@ -1,6 +1,7 @@
 <div style="width: 100%; height: 312px; overflow: hidden;">
-        <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Facebook Banner" style="width: 100%; height: auto;">
-    </div>
+        
+    </div>![1708895363571](https://github.com/RyhabElmoncer/RyhabElmoncer/assets/126770762/d1b8322c-4c33-44a6-8680-df916d3cf144)
+
 <h1 align="center">Hi 👋, I'm ryhab elmoncer</h1>
 <h3 align="center">A passionate Software developer from Tunisia</h3>
 - 🌱 I’m currently learning **Software engineering** 
